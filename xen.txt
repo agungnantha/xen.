@@ -1,3 +1,4 @@
 ini adalah daftar task saya : 
   - mengerjakan tugas
+  - belajar HTML & CSS
   - belajar javascript
