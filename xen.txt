@@ -4,3 +4,4 @@ ini adalah daftar task saya :
   - belajar javascript
 
   - belajar PHP
+  - rehat
